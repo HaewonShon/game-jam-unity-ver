@@ -14,7 +14,7 @@ TagManager:
   - 
   - 
   - platform
-  - 
+  - targets
   - 
   - 
   - 
@@ -55,4 +55,10 @@ TagManager:
     locked: 0
   - name: character eye
     uniqueID: 416020917
+    locked: 0
+  - name: speech
+    uniqueID: 1559207789
+    locked: 0
+  - name: Speech Content
+    uniqueID: 2687994415
     locked: 0
